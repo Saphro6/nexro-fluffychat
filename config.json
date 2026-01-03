@@ -1,0 +1,7 @@
+{
+  "application_name": "Nexro",
+  "default_homeserver": "matrix.saphro.xyz",
+  "privacy_url": "https://nexro.saphro.xyz/privacy",
+  "source_code_url": "https://github.com/Saphro6/nexro-fluffychat",
+  "support_url": "https://github.com/Saphro6/nexro-fluffychat/issues"
+}
